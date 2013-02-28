@@ -1,0 +1,7 @@
+d24690f77c8da82dfd5c7973bbab2cb9  usr/lib/i386-linux-gnu/i686/cmov/libpostproc.so.52.0.0
+4746e3526591c7ba071fb66c999314fd  usr/lib/i386-linux-gnu/libpostproc.so.52.0.0
+812ae049e35a77fbe9da612a1284c3c5  usr/share/doc/libpostproc52/README.Debian.gz
+5d5c5d94d0ce476b6933b81b1f3d5bc2  usr/share/doc/libpostproc52/changelog.Debian.gz
+3ba9fd8a6b625372621fcad5456fcddb  usr/share/doc/libpostproc52/changelog.gz
+e51de741ce5932946736d2b8ef235b80  usr/share/doc/libpostproc52/copyright
+b2eb6029a751f2667f874df1c87ba3ea  usr/share/lintian/overrides/libpostproc52

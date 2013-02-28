@@ -1,0 +1,124 @@
+[  2483.305] 
+X.Org X Server 1.12.4
+Release Date: 2012-08-27
+[  2483.307] X Protocol Version 11, Revision 0
+[  2483.308] Build Operating System: Linux 2.6.32-5-amd64 i686 Debian
+[  2483.309] Current Operating System: Linux stlx 3.2.6 #1 SMP Fri Feb 17 10:34:20 EST 2012 x86_64
+[  2483.309] Kernel command line: Build Date: 23 February 2013  06:25:22PM
+[  2483.311] xorg-server 2:1.12.4-5 (Julien Cristau <jcristau@debian.org>) 
+[  2483.311] Current version of pixman: 0.26.0
+[  2483.313] 	Before reporting problems, check http://wiki.x.org
+	to make sure that you have the latest version.
+[  2483.313] Markers: (--) probed, (**) from config file, (==) default setting,
+	(++) from command line, (!!) notice, (II) informational,
+	(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+[  2483.321] (==) Log file: "/var/log/Xorg.0.log", Time: Thu Feb 28 07:20:15 2013
+[  2483.322] (==) Using system config directory "/usr/share/X11/xorg.conf.d"
+[  2483.323] (==) No Layout section.  Using the first Screen section.
+[  2483.323] (==) No screen section available. Using defaults.
+[  2483.323] (**) |-->Screen "Default Screen Section" (0)
+[  2483.323] (**) |   |-->Monitor "<default monitor>"
+[  2483.323] (==) No monitor specified for screen "Default Screen Section".
+	Using a default monitor configuration.
+[  2483.323] (==) Automatically adding devices
+[  2483.323] (==) Automatically enabling devices
+[  2483.323] (WW) The directory "/usr/share/fonts/X11/cyrillic" does not exist.
+[  2483.323] 	Entry deleted from font path.
+[  2483.323] (WW) The directory "/var/lib/defoma/x-ttcidfont-conf.d/dirs/TrueType" does not exist.
+[  2483.323] 	Entry deleted from font path.
+[  2483.323] (==) FontPath set to:
+	/usr/share/fonts/X11/misc,
+	/usr/share/fonts/X11/100dpi/:unscaled,
+	/usr/share/fonts/X11/75dpi/:unscaled,
+	/usr/share/fonts/X11/Type1,
+	/usr/share/fonts/X11/100dpi,
+	/usr/share/fonts/X11/75dpi,
+	built-ins
+[  2483.323] (==) ModulePath set to "/usr/lib/xorg/modules"
+[  2483.323] (II) The server relies on udev to provide the list of input devices.
+	If no devices become available, reconfigure udev or disable AutoAddDevices.
+[  2483.323] (II) Loader magic: 0xf77255a0
+[  2483.323] (II) Module ABI versions:
+[  2483.323] 	X.Org ANSI C Emulation: 0.4
+[  2483.323] 	X.Org Video Driver: 12.1
+[  2483.323] 	X.Org XInput driver : 16.0
+[  2483.323] 	X.Org Server Extension : 6.0
+[  2483.323] (WW) Open ACPI failed (/var/run/acpid.socket) (No such file or directory)
+[  2483.323] (II) LoadModule: "extmod"
+[  2483.323] (II) Loading /usr/lib/xorg/modules/extensions/libextmod.so
+[  2483.324] (II) Module extmod: vendor="X.Org Foundation"
+[  2483.324] 	compiled for 1.12.4, module version = 1.0.0
+[  2483.324] 	Module class: X.Org Server Extension
+[  2483.324] 	ABI class: X.Org Server Extension, version 6.0
+[  2483.324] (II) Loading extension SELinux
+[  2483.324] (II) Loading extension MIT-SCREEN-SAVER
+[  2483.324] (II) Loading extension XFree86-VidModeExtension
+[  2483.324] (II) Loading extension XFree86-DGA
+[  2483.324] (II) Loading extension DPMS
+[  2483.324] (II) Loading extension XVideo
+[  2483.324] (II) Loading extension XVideo-MotionCompensation
+[  2483.324] (II) Loading extension X-Resource
+[  2483.324] (II) LoadModule: "dbe"
+[  2483.324] (II) Loading /usr/lib/xorg/modules/extensions/libdbe.so
+[  2483.324] (II) Module dbe: vendor="X.Org Foundation"
+[  2483.324] 	compiled for 1.12.4, module version = 1.0.0
+[  2483.324] 	Module class: X.Org Server Extension
+[  2483.324] 	ABI class: X.Org Server Extension, version 6.0
+[  2483.324] (II) Loading extension DOUBLE-BUFFER
+[  2483.324] (II) LoadModule: "glx"
+[  2483.324] (II) Loading /usr/lib/xorg/modules/extensions/libglx.so
+[  2483.324] (II) Module glx: vendor="X.Org Foundation"
+[  2483.324] 	compiled for 1.12.4, module version = 1.0.0
+[  2483.324] 	ABI class: X.Org Server Extension, version 6.0
+[  2483.324] (==) AIGLX enabled
+[  2483.324] (II) Loading extension GLX
+[  2483.324] (II) LoadModule: "record"
+[  2483.325] (II) Loading /usr/lib/xorg/modules/extensions/librecord.so
+[  2483.325] (II) Module record: vendor="X.Org Foundation"
+[  2483.325] 	compiled for 1.12.4, module version = 1.13.0
+[  2483.325] 	Module class: X.Org Server Extension
+[  2483.325] 	ABI class: X.Org Server Extension, version 6.0
+[  2483.325] (II) Loading extension RECORD
+[  2483.325] (II) LoadModule: "dri"
+[  2483.325] (II) Loading /usr/lib/xorg/modules/extensions/libdri.so
+[  2483.325] (II) Module dri: vendor="X.Org Foundation"
+[  2483.325] 	compiled for 1.12.4, module version = 1.0.0
+[  2483.325] 	ABI class: X.Org Server Extension, version 6.0
+[  2483.325] (II) Loading extension XFree86-DRI
+[  2483.325] (II) LoadModule: "dri2"
+[  2483.325] (II) Loading /usr/lib/xorg/modules/extensions/libdri2.so
+[  2483.325] (II) Module dri2: vendor="X.Org Foundation"
+[  2483.325] 	compiled for 1.12.4, module version = 1.2.0
+[  2483.325] 	ABI class: X.Org Server Extension, version 6.0
+[  2483.325] (II) Loading extension DRI2
+[  2483.325] (==) Matched vesa as autoconfigured driver 0
+[  2483.325] (==) Matched fbdev as autoconfigured driver 1
+[  2483.325] (==) Assigned the driver to the xf86ConfigLayout
+[  2483.325] (II) LoadModule: "vesa"
+[  2483.325] (II) Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+[  2483.325] (II) Module vesa: vendor="X.Org Foundation"
+[  2483.326] 	compiled for 1.12.1, module version = 2.3.1
+[  2483.326] 	Module class: X.Org Video Driver
+[  2483.326] 	ABI class: X.Org Video Driver, version 12.0
+[  2483.326] (II) LoadModule: "fbdev"
+[  2483.326] (II) Loading /usr/lib/xorg/modules/drivers/fbdev_drv.so
+[  2483.326] (II) Module fbdev: vendor="X.Org Foundation"
+[  2483.326] 	compiled for 1.12.1, module version = 0.4.2
+[  2483.326] 	ABI class: X.Org Video Driver, version 12.0
+[  2483.326] (II) VESA: driver for VESA chipsets: vesa
+[  2483.326] (II) FBDEV: driver for framebuffer: fbdev
+[  2483.326] (--) using VT number 8
+
+[  2483.328] 
+Fatal server error:
+[  2483.329] xf86OpenConsole: Cannot open virtual console 8 (No such file or directory)
+[  2483.330] 
+[  2483.332] 
+Please consult the The X.Org Foundation support 
+	 at http://wiki.x.org
+ for help. 
+[  2483.333] Please also check the log file at "/var/log/Xorg.0.log" for additional information.
+[  2483.334] 
+[  2483.334] (WW) xf86CloseConsole: KDSETMODE failed: Bad file descriptor
+[  2483.334] (WW) xf86CloseConsole: VT_GETMODE failed: Bad file descriptor
+[  2483.335] Server terminated with error (1). Closing log file.

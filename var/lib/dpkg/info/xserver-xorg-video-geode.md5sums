@@ -1,0 +1,9 @@
+5caf46c62582d2d2f1d32978f70be8a4  usr/lib/xorg/modules/drivers/geode_drv.so
+ace9fc60e2a131d68afff689df60c571  usr/lib/xorg/modules/drivers/ztv_drv.so
+23fa6e8203cd3ee9318a98d5c00069ab  usr/share/doc/xserver-xorg-video-geode/NEWS.gz
+63474babe6b3095b497840ddd93cf74b  usr/share/doc/xserver-xorg-video-geode/README.gz
+dce49f7135ca4d192e61851ceebd8f94  usr/share/doc/xserver-xorg-video-geode/TODO
+07a502201db6f2f00d9f149d1dc03c8d  usr/share/doc/xserver-xorg-video-geode/changelog.Debian.gz
+118ae712429a73092a50537b3c681bac  usr/share/doc/xserver-xorg-video-geode/changelog.gz
+f5ad367cb967291ccd1d348cf3486945  usr/share/doc/xserver-xorg-video-geode/copyright
+19172949af18a04dc051c046cdb50bad  usr/share/xserver-xorg/pci/geode.ids

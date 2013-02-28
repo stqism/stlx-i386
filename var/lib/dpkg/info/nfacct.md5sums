@@ -1,0 +1,5 @@
+5f066a20a4d2cce7fea75d7b5cf54efb  usr/sbin/nfacct
+194bc02feb4ac4b97dbd55603df3d564  usr/share/doc/nfacct/changelog.Debian.gz
+849251007b54f03d3f2f9f55dd22176b  usr/share/doc/nfacct/changelog.gz
+55c2848170c6155b8095207d307bf463  usr/share/doc/nfacct/copyright
+445aa6ff872dac35ed9899dbd2bf03e6  usr/share/man/man8/nfacct.8.gz

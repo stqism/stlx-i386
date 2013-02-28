@@ -1,0 +1,7 @@
+e89fb1984cab9b7dda899dcdc7a33947  usr/bin/enchant
+7c7f3f1b0b13d5633263188d57b27faa  usr/bin/enchant-lsmod
+7c0b53eaad2eda37f3fd515201cb1b28  usr/share/doc/enchant/changelog.Debian.gz
+db11dfb2fd3de17eb7b356604e908506  usr/share/doc/enchant/changelog.gz
+f47bd85c91431a77f2df307d617b9d8b  usr/share/doc/enchant/copyright
+a4aff7eed24be505398d57e59e417987  usr/share/man/man1/enchant-lsmod.1.gz
+af50d80cb9e9bcc8426ded93464f4dc7  usr/share/man/man1/enchant.1.gz

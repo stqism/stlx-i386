@@ -1,0 +1,10 @@
+TARGETS = saned urandom alsa-utils sendsigs rsyslog umountnfs.sh hwclock.sh networking umountfs umountroot halt reboot
+sendsigs: saned alsa-utils
+rsyslog: sendsigs saned
+umountnfs.sh: rsyslog saned sendsigs alsa-utils
+hwclock.sh: rsyslog
+networking: umountnfs.sh
+umountfs: hwclock.sh umountnfs.sh urandom networking saned alsa-utils
+umountroot: umountfs
+halt: umountroot
+reboot: umountroot

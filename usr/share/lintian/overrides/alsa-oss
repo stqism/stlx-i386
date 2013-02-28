@@ -1,0 +1,5 @@
+alsa-oss: non-dev-pkg-with-shlib-symlink usr/lib/x86_64-linux-gnu/libalsatoss.so.0.0.0 usr/lib/x86_64-linux-gnu/libalsatoss.so
+alsa-oss: non-dev-pkg-with-shlib-symlink usr/lib/x86_64-linux-gnu/libaoss.so.0.0.0 usr/lib/x86_64-linux-gnu/libaoss.so
+alsa-oss: no-symbols-control-file usr/lib/x86_64-linux-gnu/libaoss.so.0.0.0
+alsa-oss: no-symbols-control-file usr/lib/x86_64-linux-gnu/libalsatoss.so.0.0.0
+alsa-oss: package-name-doesnt-match-sonames

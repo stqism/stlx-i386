@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libxtables9
+/usr/share/doc/libxtables9/changelog.Debian.gz
+/usr/share/doc/libxtables9/copyright
+/usr/share/doc/libxtables9/changelog.gz
+/lib
+/lib/libxtables.so.9.0.0
+/lib/libxtables.so.9
